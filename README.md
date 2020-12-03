@@ -1,1 +1,1 @@
-# React JS Sandbox ![reactjs](https://img.shields.io/badge/reactjs-javascript-64bded?style=flat-square&logo=react&logoColor=white) ![html](https://img.shields.io/badge/html-hypertext%20markdown%20language-orange?style=flat-square&logo=html5&logoColor=white)
+# React JS Sandbox ![reactjs](https://img.shields.io/badge/reactjs-javascript-64bded?style=flat-square&logo=react&logoColor=white) ![html](https://img.shields.io/badge/html-hypertext%20markup%20language-orange?style=flat-square&logo=html5&logoColor=white)
